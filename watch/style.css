@@ -1,0 +1,34 @@
+.con{
+    background-color: rgb(20, 20, 21);
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: rgb(27, 26, 26);
+    width: 45%;
+    height: 30vh;
+    box-shadow: 12px 4px 15px 8px #0b0b0b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: white;
+    font-size: 180px;
+}
+
+span{
+    color: white;
+    font-size: 200px;
+    margin-bottom: 10px;
+}
+.second{
+    font-size: 90px;
+    margin-top: 120px;
+}
+
